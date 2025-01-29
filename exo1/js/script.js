@@ -1,9 +1,9 @@
 const btPlus = document.querySelector('.plus');
 
-const colTransport = document.querySelector('.col-transports-invisible');
+const colTransport = document.querySelector('.conteneur-transport');
 
 btPlus.addEventListener('click',fouvreferme);
 
 function fouvreferme(){
-    colTransport.classList.toggle('col-transport-invisible');
+    colTransport.classList.toggle('conteneur-transport-invisible');
 };
