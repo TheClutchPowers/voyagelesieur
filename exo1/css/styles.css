@@ -206,3 +206,10 @@ footer nav ul {
   gap: 20px;
   list-style-type: none;
 }
+
+
+
+
+.col-transport-invisible{
+  display: none;
+}
